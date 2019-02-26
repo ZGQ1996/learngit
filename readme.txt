@@ -1,3 +1,3 @@
 git is a good distributed version control system
-git is free softwore
+git is free softwore distrubuted under the GPL
 
